@@ -21,6 +21,6 @@ Lista numerada:
 
 Lista com marcador
 
-- [] pão
-- [] leite
-- [] margarina
+- [ ] pão
+- [ ] leite
+- [ ] margarina
