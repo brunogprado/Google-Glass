@@ -13,8 +13,8 @@ https://brunogprado.github.io/HTML5/projeto-glass-html5/
 Lista numerada:
 
 1. Lista
-2. lista 2
-   3.    lista 3
+2. lista
+   3. lista
 *    lista 4
     *. lista
 
