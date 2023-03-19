@@ -17,3 +17,10 @@ Lista numerada:
 3.    lista 3
 *    lista 4
     *. lista
+
+
+Lista com marcador
+
+- [] pão
+- [] leite
+- [] margarina
