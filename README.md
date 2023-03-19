@@ -23,4 +23,4 @@ Lista com marcador
 
 - [ ] pão
 - [ ] leite
-- [ x ] margarina
+- [X] margarina
