@@ -26,3 +26,9 @@ Lista com marcador
 - [ ] pão
 - [ ] leite
 - [x] margarina
+
+Ano | Curso | Professor | Aulas
+:---: | ---: | :--- | :---:
+2013 | HTML+CSS+JS | GUSTAVO GUANABARA | 36
+2018 | HARDWARE | ALFREDO JR | 28
+2019 | LINUX | RICARDO PINHEIRO | 15
