@@ -16,4 +16,4 @@ Lista numerada:
 2. lista 2
 3.    lista 3
 *    lista 4
-    *    lista
+    * lista
