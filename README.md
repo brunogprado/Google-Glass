@@ -14,7 +14,9 @@ Lista numerada:
 
 1. Lista
 2. lista
-        1. lista
+3. lista
+
+
 * lista
     * lista
 * lista
