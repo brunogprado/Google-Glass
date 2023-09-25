@@ -1,3 +1,3 @@
 # Site História Google Glass
 
-https://brunogprado.github.io/HTML5/projeto-glass-html5/
+https://brunogprado.github.io/Google-Glass/
